@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @redd69
+@redd69
 
-depressed coder
+sad c++ / c# dev
 
-redd69/redd69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+working on: 
+------------
+X-Script   | 100% DONE
+------------
+X-Rage     | 80% Working on!
+------------
+X-Spoofer  | 10% Working on!
+------------
+
+Follow my page for opensource cheats and more!:)
