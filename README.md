@@ -1,6 +1,6 @@
-@redd69
 
-sad c++ / c# dev
+Im Currently working on: EAC-Emulation detection
 
+My Recent Project: bE memory-reader
 
-epic 
+Wants to work for: Easy-Anti-Cheat Development Team
